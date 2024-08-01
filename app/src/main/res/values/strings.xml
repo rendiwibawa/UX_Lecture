@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gpt</string>
+
+    <string-array name="payment_methods">
+        <item>Credit Card</item>
+        <item>Debit Card</item>
+        <item>PayPal</item>
+        <item>Bank Transfer</item>
+    </string-array>
+
+</resources>
